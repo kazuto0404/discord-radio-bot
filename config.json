@@ -1,0 +1,8 @@
+{
+  "TOKEN": "token du bot",
+  "DEFAULT_PREFIX": "r!",
+  "DEFAULT_COLOR": "#2f3136",
+  "owner": "owner1",
+  "owner2": "owner2",
+  "owner3": "owner3"
+}

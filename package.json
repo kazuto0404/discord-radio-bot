@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "@discordjs/voice": "^0.7.5",
+    "discord-buttons": "^4.0.0-deprecated",
+    "discord.js": "^13.3.1",
+    "ffmpeg-static": "^4.4.0",
+    "fs": "^0.0.1-security",
+    "libsodium-wrappers": "^0.7.9",
+    "quick.db": "^7.1.3"
+  }
+}
