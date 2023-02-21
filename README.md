@@ -3,4 +3,4 @@
 
 je le leak car le code me sert plus a rien et le bot n'est plus heberger
 
-![My Discord](https://discord-readme-badge.vercel.app/api?id=1001131894978658355)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1001131894978658355)](https://discord.com/users/1001131894978658355)
