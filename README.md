@@ -3,4 +3,4 @@
 
 je le leak car le code me sert plus a rien et le bot n'est plus heberger
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/:1001131894978658355)](https://discord.com/users/:1001131894978658355) a
+[![Discord Presence](https://lanyard.cnrad.dev/api/:1001131894978658355)](https://discord.com/users/:1001131894978658355) 
